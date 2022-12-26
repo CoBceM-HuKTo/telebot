@@ -53,8 +53,8 @@ q = 'False'  # флаг для разных случаев
 message_glob = None
 counter_of_children = 0
 
-bot = telebot.TeleBot('5933929564:AAED9YKcmMdrIWeJWqF19SGk25ItiZy9BxE')  # подключаемся к боту
-my_id = '1883410037'
+bot = telebot.TeleBot('')  # подключаемся к боту
+my_id = ''
 name_event_reg = ''
 
 
